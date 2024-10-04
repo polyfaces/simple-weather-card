@@ -14,8 +14,8 @@
     "custom-cards"
   ],
   "main": "src/main.js",
-  "repository": "git@github.com:kalkih/simple-weather-card.git",
-  "author": "Karl Kihlström <mrkihlstrom@gmail.com>",
+  "repository": "git@github.com:polyfaces/simple-weather-card.git",
+  "author": "polyfaces <polyfaces@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.17.10",
